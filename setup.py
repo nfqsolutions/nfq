@@ -6,7 +6,7 @@ setup(
     name="mathutils",
     version="0.0.1",
     author="NFQ Solutions",
-    author_email="solutions@nfq.es",
+    author_email="some@email.com",
     packages=[
         'nfq.mathutils',
         ],
