@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# python_template documentation build configuration file, created by
+# NFQ documentation build configuration file, created by
 # sphinx-quickstart on Thu Oct 27 10:00:12 2016.
 #
 # This file is execfile()d with the current directory set to its
@@ -56,7 +56,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'python_template'
+project = 'NFQ'
 copyright = '2016, NFQ Solutions'
 author = 'NFQ Solutions'
 
@@ -141,7 +141,7 @@ html_theme = 'alabaster'
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = 'python_template v0.0.1'
+# html_title = 'NFQ v0.0.1'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -241,7 +241,7 @@ html_static_path = ['_static']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'python_templatedoc'
+htmlhelp_basename = 'NFQdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -267,7 +267,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'python_template.tex', 'python\\_template Documentation',
+    (master_doc, 'NFQ.tex', 'NFQ Documentation',
      'NFQ Solutions', 'manual'),
 ]
 
@@ -309,7 +309,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'python_template', 'python_template Documentation',
+    (master_doc, 'NFQ', 'NFQ Documentation',
      [author], 1)
 ]
 
@@ -324,8 +324,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'python_template', 'python_template Documentation',
-     author, 'python_template', 'One line description of project.',
+    (master_doc, 'NFQ', 'NFQ Documentation',
+     author, 'NFQ', 'One line description of project.',
      'Miscellaneous'),
 ]
 

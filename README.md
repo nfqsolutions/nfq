@@ -1,3 +1,4 @@
-# Python project template for NFQ Solutions
+# Base Python package for NFQ Solutions
 
-TBD
+This is the Python base package and project template
+

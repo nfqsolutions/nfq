@@ -3,12 +3,13 @@
 from setuptools import setup
 
 setup(
-    name="mathutils",
+    name="nfq",
+    description="NFQ Solutions base package",
     version="0.0.1",
     author="NFQ Solutions",
-    author_email="some@email.com",
+    author_email="solutions@nfq.es",
     packages=[
-        'nfq.mathutils',
+        'nfq',
         ],
     setup_requires=['pytest-runner'],
     tests_require=['pytest']
