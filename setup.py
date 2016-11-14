@@ -8,6 +8,9 @@ setup(
     version="0.1",
     author="NFQ Solutions",
     author_email="solutions@nfq.es",
+    url='http://nfqsolutions.es',
+    zip_safe=False,
+    namespace_packages=['nfq'],
     packages=[
         'nfq',
         ],
