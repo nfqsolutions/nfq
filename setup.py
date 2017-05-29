@@ -12,8 +12,8 @@ setup(
         'nfq',
         ],
     zip_safe=False,
-    install_requres=[],
+    install_requires=[],
     include_package_data=True,
-    setup_requires=['pytest-runner', 'pytest'],
-    tests_require=['pytest']
+    setup_requires=[],
+    tests_require=[]
     )
